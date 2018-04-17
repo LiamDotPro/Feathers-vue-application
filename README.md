@@ -1,5 +1,7 @@
 # Feathers-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LiamDotPro/Feathers-vue-application.svg)](https://greenkeeper.io/)
+
 > A rest api for risk management
 
 ## About
